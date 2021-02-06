@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Compile Include="RecursiveMapTests.fs" />
+    <Compile Include="ExpressionTests.fs" />
     <Compile Include="Main.fs" />
   </ItemGroup>
 
